@@ -5,13 +5,13 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+This is my contact info.
 
-<form action="https://getsimpleform.com/messages?form_api_token=" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=6810d6de7dba9cd822816dfc48614701" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='full-url/thank-you/' />
-  <input type='text' name='name' placeholder='Your Full Name' />
-  <input type='email' name='email' placeholder='Your E-mail Address' />
-  <textarea name='message' placeholder='Write your message ...'></textarea>
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+  <input type='text' name='name' placeholder='Seung Yeon Joo' />
+  <input type='email' name='email' placeholder='wntmddussla@hotmail.com' />
+  <textarea name='message' placeholder='Hello My name is Seung Yeon Joo and I m hoping to become an Web developer'></textarea>
   <input type='submit' value='Send Message' />
 </form>
